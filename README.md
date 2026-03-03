@@ -5,8 +5,7 @@ A Machine Learning web application that predicts the **selling price of a used c
 ---
 
 ## 📸 Preview
-
-![Car Price Predictor UI](eda_plots.png)
+<img width="1879" height="941" alt="Image" src="https://github.com/user-attachments/assets/c370f4ef-5508-4966-b875-fa3de1479299" />
 
 ---
 
