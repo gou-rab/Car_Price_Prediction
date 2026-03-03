@@ -811,7 +811,7 @@ canvas#ringChart { position: absolute; inset: 0; }
 <div class="error-toast" id="errorToast"></div>
 
 <script>
-const API = 'http://127.0.0.1:5000';
+const API = window.location.origin;
 
 const bgCanvas = document.getElementById('canvas-bg');
 const bgCtx    = bgCanvas.getContext('2d');
